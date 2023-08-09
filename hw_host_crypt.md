@@ -26,3 +26,16 @@
 ![alt text](https://github.com/SemikovaTV/hw_host_crypt/blob/main/7.jpg)
 ![alt text](https://github.com/SemikovaTV/hw_host_crypt/blob/main/8.jpg)
 ![alt text](https://github.com/SemikovaTV/hw_host_crypt/blob/main/9.jpg)
+
+### Задание 3 *
+
+1. Установите **apparmor**.
+2. Повторите эксперимент, указанный в лекции.
+3. Отключите (удалите) apparmor.
+
+
+*В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
+![alt text](https://github.com/SemikovaTV/hw_host_crypt/blob/main/11.jpg)
+![alt text](https://github.com/SemikovaTV/hw_host_crypt/blob/main/10.jpg)
+![alt text](https://github.com/SemikovaTV/hw_host_crypt/blob/main/12.jpg)
+
